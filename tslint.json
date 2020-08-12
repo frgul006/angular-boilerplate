@@ -1,8 +1,8 @@
 {
   "extends": ["tslint:recommended", "tslint-angular", "tslint-config-prettier"],
   "rules": {
-    "directive-selector": [true, "attribute", "app", "camelCase"],
-    "component-selector": [true, "element", "app", "kebab-case"],
+    "directive-selector": [true, "attribute", "ygg", "camelCase"],
+    "component-selector": [true, "element", "ygg", "kebab-case"],
     "no-console": [true, "debug", "info", "time", "timeEnd", "trace"],
     "interface-name": false,
     "max-classes-per-file": false,
